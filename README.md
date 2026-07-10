@@ -117,3 +117,4 @@ Respuesta esperada:
 - Montar volumen persistente para PostgreSQL y `backend/storage`.
 - Publicar Nginx detras de HTTPS.
 - Agregar autenticacion y autorizacion para paneles o endpoints admin antes de exponerlos.
+# tu-ciudad-limpia
